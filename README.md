@@ -1,0 +1,1 @@
+This repository contains a Python script that visualizes audio recordings of birdsong in both the time domain and frequency domain. It uses the Fast Fourier Transform (FFT) and spectrogram analysis to reveal the structure and frequency content of bird calls.
